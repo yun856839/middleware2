@@ -10,7 +10,7 @@
 # installation and execution
   1. 打開終端機(Terminal)，Clone 此專案至本地電腦
   ```
-  git clone 
+  git clone https://github.com/yun856839/middleware2.git
   ```
 
   2. 開啟終端機，進入專案資料夾
